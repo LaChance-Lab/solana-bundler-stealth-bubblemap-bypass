@@ -11,26 +11,25 @@ https://t.me/lachancelab
 
 ## Bypassing Bubblemaps Example
 
-Token CA: https://solscan.io/account/DRjNVSxm2wA2Mkv6EBFCf6rbWR55vo9nM4m1TPXAmjne
+Token CA: https://solscan.io/token/3N4Vc9GhWPHdZqYTReofZDCb9zkMZRVi5r7s25Y3cgQF
 
-Token Creation: https://solscan.io/tx/5RJuLbcxmdu9n5v5meEqCKE3ZqUJQBYYHfqmH3EL3Uc1wbkT8r5FhU9w4jEFGhpzxM1aMh4NJnCkN1Nt6DhNM2cE
+Token Creation and Dev Buy: https://solscan.io/tx/4AqoYQR5ws8SVMCPdHeabUNV4KLGJ1PdNf6DKyJYtVRKYnhgNS91s8tGDL417PM4kEH7W4QSo98nfw9nvoZjvxLH
 
-Buy Tx (2 wallets): https://solscan.io/tx/5mPUsvgecxXU6e1hAzZmR1c3rVQMXej8VPXEuKnSRm4KXgSCQN3GNAToCnK2ABXp5pn1aV3nkSRSn8BJvH3DZ8ed
+Buy Tx (4 wallets): https://solscan.io/tx/5DqSYcQ9FjePGyUseVVgaUBDzKpPBFE9dpgACciRLG8UuXYULckC1mvZQYBBPXQKJWSHirq9tgWngHeMU9BMd1nw
 
 - Axiom
-[https://axiom.trade/meme/6Q8RfzcFcCLTUtUaywF31i9nB2PPVuBCkXz3M1rMhWpB?chain=sol](https://axiom.trade/meme/6Q8RfzcFcCLTUtUaywF31i9nB2PPVuBCkXz3M1rMhWpB?chain=sol)
-
-<img width="1465" height="782" alt="image" src="https://github.com/user-attachments/assets/a33b5a7e-27ea-4757-93ca-9947d67c63c3" />
+[https://axiom.trade/meme/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarUR?chain=sol](https://axiom.trade/meme/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarUR?chain=sol)
+<img width="1406" height="963" alt="image" src="https://github.com/user-attachments/assets/338288b7-7ded-4df3-a84b-4c70dc2560b6" />
 
 
 - DexScreener
-https://dexscreener.com/solana/8FJ4iKse7ivJU4Yigz99bvPtSK76HunfjzX1aDQugtnH
-<img width="1284" height="800" alt="image" src="https://github.com/user-attachments/assets/341d40ec-e344-4e67-a830-ef62a84dc36f" />
+https://dexscreener.com/solana/bfpdmzmf36t1chpvtzpvol5ftocnun7e2n6s7eoarur
+<img width="1365" height="897" alt="image" src="https://github.com/user-attachments/assets/12cb0a36-6373-48e3-8a87-7bee223a0788" />
+
 - Photon
-https://photon-sol.tinyastro.io/en/lp/GpVngkmcnpximSbfdZT3sucBNaLQFK4LGtjkHQgv3oig
-<img width="1436" height="943" alt="image" src="https://github.com/user-attachments/assets/a40340d1-3aa9-46d1-90b3-56925b12f5f8" />
-<img width="963" height="862" alt="image" src="https://github.com/user-attachments/assets/b36a976b-77b3-4827-aa18-d4a5abf6b3a1" />
+https://photon-sol.tinyastro.io/en/lp/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarUR?handle=3119925dc59e07ca7be99d
+<img width="1396" height="956" alt="image" src="https://github.com/user-attachments/assets/3686db99-8b8b-4e87-ba1b-9acedc20cbdb" />
 
 - GmGn.ai
-https://gmgn.ai/sol/token/solscan_8FJ4iKse7ivJU4Yigz99bvPtSK76HunfjzX1aDQugtnH
-<img width="1565" height="882" alt="image" src="https://github.com/user-attachments/assets/47121508-5cff-4700-9cd6-aac58410f54a" />
+https://gmgn.ai/sol/token/3N4Vc9GhWPHdZqYTReofZDCb9zkMZRVi5r7s25Y3cgQF
+<img width="1297" height="945" alt="image" src="https://github.com/user-attachments/assets/67c6d798-f49f-4be7-9905-8c448afada18" />
