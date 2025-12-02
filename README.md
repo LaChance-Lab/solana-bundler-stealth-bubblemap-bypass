@@ -1,4 +1,4 @@
-# Stealth Mode Solana/EVM Bundler with Bubblemaps Bypassing Solution
+# Stealth Mode Solana/EVM Bundler with Bubblemaps Bypassing/InsightX Solution
 
 Stealth mode Solana PumpFun &amp; BonkFun Bundler, Raydium Bundler, Meteora DLMM Bundler, Four.meme Bundler bypassing bubblemaps. No bundler flag using Axiom + Bloom Routing Buy
 
@@ -33,3 +33,7 @@ https://photon-sol.tinyastro.io/en/lp/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarU
 - GmGn.ai
 https://gmgn.ai/sol/token/3N4Vc9GhWPHdZqYTReofZDCb9zkMZRVi5r7s25Y3cgQF
 <img width="1297" height="945" alt="image" src="https://github.com/user-attachments/assets/67c6d798-f49f-4be7-9905-8c448afada18" />
+
+- Padre
+https://trade.padre.gg/trade/solana/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarUR
+<img width="1415" height="896" alt="image" src="https://github.com/user-attachments/assets/2c9aef9d-b3d7-4cf8-b339-ded13d0e6c63" />
