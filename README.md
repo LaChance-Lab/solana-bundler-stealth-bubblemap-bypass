@@ -1,4 +1,4 @@
-# Stealth Mode Solana/EVM Bundler with Bubblemaps Bypassing/InsightX Solution
+# Stealth Mode Solana/EVM Bundler with Bubblemaps/InsightX Bypassing Solution
 
 Stealth mode Solana PumpFun &amp; BonkFun Bundler, Raydium Bundler, Meteora DLMM Bundler, Four.meme Bundler bypassing bubblemaps. No bundler flag using Axiom + Bloom Routing Buy
 
