@@ -23,20 +23,16 @@ Buy Tx (8 wallets):
 [https://axiom.trade/meme/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3?chain=sol](https://axiom.trade/meme/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3?chain=sol)
 <img width="1510" height="868" alt="image" src="https://github.com/user-attachments/assets/d5b05f2c-16a7-44af-93c0-e7a46193aa03" />
 
-
 ### DexScreener
 https://dexscreener.com/solana/3eepgMKJd3ui87V9dvYrBvBokq8x5jjBUfzRq75xiumn
 <img width="1124" height="794" alt="image" src="https://github.com/user-attachments/assets/39a92dc4-aa62-4d44-b044-081335f7a3ff" />
 
-
 ### Photon
-https://photon-sol.tinyastro.io/en/lp/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarUR?handle=3119925dc59e07ca7be99d
-<img width="1396" height="956" alt="image" src="https://github.com/user-attachments/assets/3686db99-8b8b-4e87-ba1b-9acedc20cbdb" />
+https://photon-sol.tinyastro.io/en/lp/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3?handle=3119925dc59e07ca7be99d
+<img width="876" height="705" alt="image" src="https://github.com/user-attachments/assets/0b826742-6d0a-4e56-8520-fb09df99e5f9" />
 
 ### GmGn.ai
-https://gmgn.ai/sol/token/3N4Vc9GhWPHdZqYTReofZDCb9zkMZRVi5r7s25Y3cgQF
-<img width="1297" height="945" alt="image" src="https://github.com/user-attachments/assets/67c6d798-f49f-4be7-9905-8c448afada18" />
+https://gmgn.ai/sol/token/3eepgMKJd3ui87V9dvYrBvBokq8x5jjBUfzRq75xiumn
 
 ### Padre
-https://trade.padre.gg/trade/solana/bFPdMZMF36t1chPvTzpvoL5fTocnun7E2n6S7EoarUR
-<img width="1415" height="896" alt="image" src="https://github.com/user-attachments/assets/2c9aef9d-b3d7-4cf8-b339-ded13d0e6c63" />
+https://trade.padre.gg/trade/solana/FjDZ8ryVeW4cRKcFtwCV4rRz1hPPG2EW2deGYcLsQVF3
